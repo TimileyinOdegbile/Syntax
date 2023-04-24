@@ -1,0 +1,38 @@
+.syntax__aboutUs--head {
+  width: 112px;
+  height: 22px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 22px;
+
+  color: #2131b6;
+}
+
+.syntax__aboutUs--topic {
+  width: 367px;
+  height: 92px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 44px;
+
+  color: #25282b;
+}
+
+.syntax__aboutUs--text {
+  width: 508px;
+  height: 82px;
+
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+
+  color: #52575c;
+}

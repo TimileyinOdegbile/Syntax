@@ -1,4 +1,18 @@
 .syntax__aboutUs {
-    display: flex;
-    
+  display: flex;
+  align-items: center;
+}
+
+.syntax__aboutUs--hero {
+  width: auto;
+  height: auto;
+}
+
+.syntax__aboutUs--hero img {
+  width: 50vw;
+  height: 100vh;
+}
+
+.syntax__aboutUs--article {
+  margin: auto;
 }

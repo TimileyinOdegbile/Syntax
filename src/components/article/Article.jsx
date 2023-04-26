@@ -3,10 +3,10 @@ import './article.css'
 
 const Article = ({ head, topic, text }) => {
     return (
-        <div>
-            <h6 className="syntax__aboutUs--head">{head}</h6>
-            <h3 className="syntax__aboutUs--topic">{topic}</h3>
-            <p className="syntax__aboutUs--text">{text}</p>
+        <div className="syntax__article">
+            <h6 className="syntax__article--head">{head}</h6>
+            <h3 className="syntax__article--topic">{topic}</h3>
+            <p className="syntax__article--text">{text}</p>
         </div>
     )
 };

@@ -14,29 +14,3 @@ body,
 html {
   height: 100%;
 }
-
-.general-button {
-  /* width: 234px;
-  height: 60px; */
-
-  width: 334px;
-  height: 100px;
-
-  background: #2131b6;
-  border: #ffffff;
-
-  font-family: "Archivo";
-  font-style: normal;
-  /* font-weight: 400;
-  font-size: 25px;
-  line-height: 25px; */
-
-  font-weight: 500;
-  font-size: 30px;
-  line-height: 35px;
-
-  text-align: center;
-  cursor: pointer;
-
-  color: #ffffff;
-}

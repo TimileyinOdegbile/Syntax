@@ -1,0 +1,27 @@
+.syntax__resume {
+    width: 180px;
+    height: 101px;
+}
+
+h1 {
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 59px;
+  line-height: 42px;
+
+  letter-spacing: 0.03em;
+
+  color: #2131b6;
+}
+
+h5 {
+    color: #52575C;
+
+    font-family: Archivo;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+
+    margin-top: 8px;
+}

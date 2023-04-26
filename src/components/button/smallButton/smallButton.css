@@ -1,0 +1,18 @@
+.syntax__small--button {
+  width: 212px;
+  height: 45px;
+
+  background: #2131b6;
+  border: #ffffff;
+
+  text-align: center;
+  cursor: pointer;
+
+  color: #ffffff;
+
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}

@@ -1,6 +1,11 @@
-.syntax__aboutUs--head {
+/* .syntax__article div {
+    margin-bottom: 30px;
+} */
+
+.syntax__article--head {
   width: 112px;
   height: 22px;
+  margin-bottom: 30px;
 
   font-family: "Archivo";
   font-style: normal;
@@ -11,9 +16,10 @@
   color: #2131b6;
 }
 
-.syntax__aboutUs--topic {
+.syntax__article--topic {
   width: 367px;
   height: 92px;
+  margin-bottom: 30px;
 
   font-family: "Archivo";
   font-style: normal;
@@ -24,9 +30,10 @@
   color: #25282b;
 }
 
-.syntax__aboutUs--text {
+.syntax__article--text {
   width: 508px;
   height: 82px;
+  margin-bottom: 30px;
 
   font-family: "Overpass";
   font-style: normal;

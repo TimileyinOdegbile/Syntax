@@ -1,6 +1,7 @@
 import React from "react";
-import NavBar from "../../components/NavBar";
+import NavBar from "../../components/navbar/NavBar";
 import "./header.css";
+import PrimaryButton from "../../components/button/primaryButton/PrimaryButton";
 
 const Header = () => {
   return (
@@ -12,7 +13,7 @@ const Header = () => {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua
         </p>
-        <button onClick={()=>{alert("Clicked");}} className="syntax__header--button general-button">Order Ride</button>
+        <PrimaryButton content="Order Ride" />
       </div>
       <div className="syntax__header--pagination">
         <img src="C:\Users\gh\Desktop\Project\Syntax\src\assets\pagi...png" alt="pagination" />

@@ -1,0 +1,29 @@
+.syntax__mission {
+  display: flex;
+  align-items: center;
+}
+
+.syntax__mission--hero {
+  width: auto;
+  height: auto;
+}
+
+.syntax__mission--hero img {
+  width: 49vw;
+  height: 100vh;
+}
+
+.syntax__mission--article {
+  margin: auto;
+}
+
+/* .syntax__mission--resume {
+  display: flex;
+} */
+
+.resume-box {
+    display: flex;
+    justify-content:space-between;
+
+    margin-bottom: 45px;
+}

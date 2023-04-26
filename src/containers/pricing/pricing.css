@@ -1,0 +1,23 @@
+.syntax__pricing {
+  background: #f9f9fa;
+
+  display: flex;
+  flex-direction: column;
+
+  padding: 30px 0;
+}
+
+.syntax__pricing--module {
+  display: flex;
+  justify-content: center;
+
+  margin-bottom: 20px;
+}
+
+.syntax__pricing--card {
+    margin: 0 40px;
+  padding: 50px 15px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 34px rgba(9, 44, 76, 0.16);
+}

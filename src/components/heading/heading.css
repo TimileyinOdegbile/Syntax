@@ -1,0 +1,44 @@
+.syntax__heading {
+    margin: 30px;
+    padding: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.syntax__heading--head {
+  width: 316px;
+  height: 44px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 44px;
+  text-align: end;
+
+  color: #25282b;
+}
+
+.syntax__heading--body {
+  width: 695px;
+  height: 54px;
+
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+
+  text-align: center;
+
+  color: #25282b;
+}
+
+.syntax__heading--line {
+    border: 1px solid blue;
+    width: 77px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,29 @@
+span {
+  color: #2131b6;
+
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+p {
+  color: #52575c;
+
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+h4 {
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 22px;
+}
+
+.syntax__pricing--hero div {
+  margin-bottom: 12px;
+}

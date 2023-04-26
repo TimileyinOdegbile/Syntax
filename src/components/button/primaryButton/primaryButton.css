@@ -1,0 +1,21 @@
+
+.general-button {
+    width: 334px;
+    height: 100px;
+  
+    background: #2131b6;
+    border: #ffffff;
+  
+    font-family: "Archivo";
+    font-style: normal;
+  
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+  
+    text-align: center;
+    cursor: pointer;
+  
+    color: #ffffff;
+  }
+  

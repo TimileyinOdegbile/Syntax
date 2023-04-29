@@ -4,6 +4,7 @@ import {
   AboutUs,
   Mission,
   Pricing,
+  GetInTouch,
   Drivers,
   Gallery,
   Testimonials,
@@ -22,6 +23,7 @@ class App extends React.Component {
         <AboutUs />
         <Mission />
         <Pricing />
+        <GetInTouch />
         <Drivers />
         <Gallery />
         <Testimonials />

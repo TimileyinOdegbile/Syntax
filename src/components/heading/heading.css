@@ -9,7 +9,7 @@
 }
 
 .syntax__heading--head {
-  width: 316px;
+  width: 430px;
   height: 44px;
 
   font-family: "Archivo";
@@ -17,7 +17,7 @@
   font-weight: 700;
   font-size: 40px;
   line-height: 44px;
-  text-align: end;
+  text-align: center;
 
   color: #25282b;
 }

@@ -1,0 +1,26 @@
+.syntax__driverCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin: auto;
+  overflow: hidden;
+}
+
+.syntax__driverCard--hero {
+    width: 25vw;
+}
+.syntax__driverCard--hero img {
+    width: 100%;
+}
+
+h6 {
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+
+  text-align: center;
+}

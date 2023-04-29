@@ -1,0 +1,7 @@
+.syntax__drivers {
+    margin: 30px 0;
+}
+
+.syntax__drivers--module {
+    display: flex;
+}

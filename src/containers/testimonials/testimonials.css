@@ -1,0 +1,46 @@
+.syntax__testimony {
+  background-color: #F9F9FA;
+  margin: 0;
+}
+
+.syntax__testimonials {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.syntax__testimonials p {
+  width: 113.2px;
+  height: 28.05px;
+
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #2131b6;
+  margin: 20px;
+}
+
+.syntax__testimonials h3 {
+  width: 325.57px;
+  height: 44.08px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 44px;
+  text-align: center;
+
+  color: #25282b;
+  margin: 20px;
+}
+
+.syntax__testimonials--comments img {
+    margin: 0 20px;
+}

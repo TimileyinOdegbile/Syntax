@@ -1,6 +1,7 @@
 import React from "react";
 import NavBar from "../../components/navbar/NavBar";
 import "./header.css";
+import pagination from "../../assets/pagi...png"
 import PrimaryButton from "../../components/button/primaryButton/PrimaryButton";
 
 const Header = () => {
@@ -16,7 +17,7 @@ const Header = () => {
         <PrimaryButton content="Order Ride" />
       </div>
       <div className="syntax__header--pagination">
-        <img src="C:\Users\gh\Desktop\Project\Syntax\src\assets\pagi...png" alt="pagination" />
+        <img src={pagination} alt="pagination" />
       </div>
     </div>
   );

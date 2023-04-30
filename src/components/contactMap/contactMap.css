@@ -1,0 +1,15 @@
+.syntax__contactMap {
+    position: relative;
+    width: 50%;
+    height: 100%;
+}
+
+.syntax__contactMap img {
+    width: 100%;
+}
+
+.syntax__contactMap--latitude {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}

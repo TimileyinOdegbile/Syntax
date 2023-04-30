@@ -1,0 +1,152 @@
+/* ======== FORM CARD ======== */
+
+.syntax__contactForm--card {
+  width: 50vw;
+  padding: 100px;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* ======== FORM HEAD ======== */
+
+.syntax__contactForm--head {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding-bottom: 30px;
+}
+
+.syntax__contactForm--head h2 {
+  width: 229.87px;
+  height: 45.14px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 44px;
+  text-align: center;
+
+  color: #25282b;
+}
+
+.syntax__contactForm--headline {
+  width: 66.1px;
+  height: 2.44px;
+  margin-bottom: 20px;
+
+  background: #2131b6;
+}
+
+.syntax__contactForm--head p {
+  height: 47px;
+  width: 413px;
+
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+
+  text-align: center;
+
+  color: #25282b;
+}
+
+/* ======== FORM FIELDS ======== */
+
+.syntax__contactForm--forms {
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+}
+
+.syntax__contactForm--form__hero {
+  margin-bottom: 30px;
+}
+.syntax__contactForm--form_name {
+  width: 45%;
+  height: 50px;
+  padding: 5px;
+  background: #ffffff;
+  border: 0.5px solid #52575c;
+  margin-right: 10%;
+}
+
+.syntax__contactForm--form_email {
+  width: 45%;
+  height: 50px;
+  padding: 5px;
+  background: #ffffff;
+  border: 0.5px solid #52575c;
+}
+
+.syntax__contactForm--form_phone {
+  width: 100%;
+  height: 50px;
+  padding: 5px;
+  background: #ffffff;
+  margin-bottom: 30px;
+
+  border: 0.5px solid #52575c;
+}
+
+.syntax__contactForm--form_message {
+  width: 100%;
+  height: 100px;
+  padding: 5px;
+  margin-bottom: 30px;
+
+  background: #ffffff;
+
+  border: 0.5px solid #52575c;
+}
+
+.syntax__contactForm--form_recaptcha {
+  width: 30%;
+  height: 50px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 5px;
+  margin-bottom: 30px;
+  border: 0.5px solid #52575c;
+}
+
+.syntax__contactForm--form_submit {
+  margin-bottom: 30px;
+
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.syntax__contactForm--form_submit button {
+  width: 100%;
+  height: 50px;
+
+  background-color: #2131b6;
+  border-color: #2131b6;
+
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+
+  text-align: center;
+
+  color: #ffffff;
+
+  mix-blend-mode: normal;
+}
+
+.syntax__contactForm--form_contact {
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -14,3 +14,12 @@ export { default as galleryPhoto5 } from "./Rectangle 45.png"
 export { default as group1 } from "./Group 18.png"
 export { default as group2 } from "./Group 19.png"
 export { default as group3 } from "./Group 20.png"
+
+export { default as map } from "./Map.png"
+export { default as recaptcha } from "./google_recaptcha-official.png"
+
+export { default as phone } from "./Group 6.png"
+export { default as email } from "./Group 7.png"
+export { default as address } from "./Group 8.png"
+
+export { default as latitude } from "./Group 48.png"
